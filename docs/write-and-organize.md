@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Write and organize
+parent: Awesome
 nav_order: 1
-parent: Books
 ---
 
 
