@@ -2,7 +2,7 @@
 layout: default
 title: Write and organize
 nav_order: 1
-parent: books
+parent: Books
 ---
 
 
