@@ -6,17 +6,3 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-heading_anchors: false
-
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation # the name is displayed as a category in the navigation
-    faq:
-      name: FAQ
-    posts:
-      name: Post
-      nav_exclude: true # we only want to include posts in the search, not in the documentation navigation
-
