@@ -3,7 +3,7 @@ title: Welcome
 layout: home
 ---
 
-(Writing)[write-and-organize.md]
+[Writing](write-and-organize.md)
 
 # H1
 ## H2
