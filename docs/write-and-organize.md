@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Books
+title: Write and organize
 nav_order: 2
 ---
 
