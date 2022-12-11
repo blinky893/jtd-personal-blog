@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+Super super glad this still works!
+
 [Writing](write-and-organize.md)
 
 # H1
