@@ -1,6 +1,7 @@
 ---
 title: Welcome
 layout: home
+nav_order: 1
 ---
 
 [Writing](write-and-organize.md)
