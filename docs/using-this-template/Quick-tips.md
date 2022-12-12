@@ -5,19 +5,19 @@ parent: Using this template
 nav_order: 1
 ---
 
-# Using this template
+# Quick tips
 {: .no_toc}
 
 This page is a cheat sheet and style guide for creating content on this template.
 {: .fs-6 .fw-300 }  
   
 
-{: .warning-title }
-> Warning
+{: .information-title }
+> Information
 >
 > It does not replace the [official documentation](https://just-the-docs.github.io/just-the-docs/).  
   
-  
+
 <details open markdown="block">
   <summary>
     Table of contents
