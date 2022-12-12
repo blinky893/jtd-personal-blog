@@ -64,7 +64,7 @@ The wrapper that creates the sub-heading style seen at the top of this page `{: 
 ## Creating new sections
 
 ### Creating a new section
-You create a new section by creating a **new folder** inside `./docs` and adding an `index.md file`. The name of the folder is not displayed in the public site so can be whatever you want.  
+You create a new section by creating a **new folder** inside `./docs` and adding an `index.md` file. The name of the folder is not displayed in the public site so can be whatever you want.  
 
 The **section name** as it appears in the main nav will be taken from the **page title** in the front matter of the `index.md` file.  
 
@@ -82,10 +82,10 @@ has_children: true [because you're expecting to add other pages to the folder wh
 ---
 
 ### Creating pages within a section
-Pages within a section (child pages) need to include 
+Pages within a section (child pages) need to include in their front matter: 
 
-1. the title of their parent page and 
-2. their 'nav_order' in the section in their front matter:
+1. the **title** of their parent page and 
+2. their **nav_order** for the section
 
 ```
 ---
@@ -96,3 +96,7 @@ nav_order: 1 [or whatever position you want it to be in the section nav]
 ---
 
 ```
+
+---
+ENDS
+---
