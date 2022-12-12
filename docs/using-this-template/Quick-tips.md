@@ -15,9 +15,9 @@ This page is a cheat sheet and style guide for creating content on this template
 {: .warning-title }
 > Warning
 >
-> It does not replace the [official documentation](https://just-the-docs.github.io/just-the-docs/).    
-
-
+> It does not replace the [official documentation](https://just-the-docs.github.io/just-the-docs/).  
+  
+  
 <details open markdown="block">
   <summary>
     Table of contents
