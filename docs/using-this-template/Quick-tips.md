@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Quick tips
-nav_order: 2
+parent: Using this template
+nav_order: 1
 ---
 
 # Using this template
