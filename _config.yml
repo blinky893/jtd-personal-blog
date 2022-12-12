@@ -9,3 +9,20 @@ aux_links:
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  warning:
+    title: Information
+    color: blue
+
+  warning:
+    title: Note
+    color: purple
+
+  warning:
+    title: Tip
+    color: green
