@@ -36,7 +36,7 @@ The wrapper that creates the sub-heading style seen at the top of this page `{: 
 
   ```md
  {: . information-title }
-> Information
+> ℹ️ Information
 >
 > It does not replace the [official documentation](https://just-the-docs.github.io/just-the-docs/).  
 ```
@@ -68,16 +68,19 @@ You create a new section by creating a **new folder** inside `./docs` and adding
 
 The **section name** in the main nav is from the the `index.md` file > front matter > **page title**.  
 
-The `index.md` files are designed just to have an H1 heading and then a table of contents. The content for these pages is just the front matter plus an H1 heading:
-
+The default layout of `index.md` files is a **table of contents** - or TOC - that lists all the child pages in the section. This TOC is generated automatically. The only information you need to add to the file is the front matter and (optionally) an H1 heading to help keep the reader orientated:
 ```
 ---
 layout: default
 title: Using this template
-nav_order: 2 [or whatever position you want it to be in the main nav]
-has_children: true [because you're expecting to add other pages to the folder which will be referenced in the TOC.]
+
+# nav_order sets the position of the section in the main navigation 
+nav_order: 2
+
+# has_children should be set to **true** so child pages appear inside the section.
+has_children: true 
 ---
-# Section name
+# Heading 1
 
 ```
 
@@ -101,4 +104,3 @@ nav_order: 1 [or whatever position you want it to be in the section nav]
 
 ---
 ENDS
----
