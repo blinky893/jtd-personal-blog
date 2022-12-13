@@ -35,8 +35,8 @@ The wrapper that creates the sub-heading style seen at the top of this page `{: 
  The **Information** callout at the top of this page uses the code.
 
   ```md
- {: .warning-title }
-> Warning
+ {: . information-title }
+> Information
 >
 > It does not replace the [official documentation](https://just-the-docs.github.io/just-the-docs/).  
 ```
@@ -66,9 +66,9 @@ The wrapper that creates the sub-heading style seen at the top of this page `{: 
 ### Creating a new section
 You create a new section by creating a **new folder** inside `./docs` and adding an `index.md` file. The name of the folder is not displayed in the public site so can be whatever you want.  
 
-The **section name** as it appears in the main nav will be taken from the **page title** in the front matter of the `index.md` file.  
+The **section name** in the main nav is from the the `index.md` file > front matter > **page title**.  
 
-The `index.md` files are designed just to have an H1 heading and then a table of contents. The markdown for these pages is just the front matter:
+The `index.md` files are designed just to have an H1 heading and then a table of contents. The content for these pages is just the front matter plus an H1 heading:
 
 ```
 ---
@@ -77,6 +77,8 @@ title: Using this template
 nav_order: 2 [or whatever position you want it to be in the main nav]
 has_children: true [because you're expecting to add other pages to the folder which will be referenced in the TOC.]
 ---
+# Section name
+
 ```
 
 ---
