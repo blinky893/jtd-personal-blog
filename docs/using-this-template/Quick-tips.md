@@ -36,7 +36,7 @@ The wrapper that creates the sub-heading style seen at the top of this page `{: 
 
   ```md
  {: . information-title }
-> ℹ️ Information
+> Information
 >
 > It does not replace the [official documentation](https://just-the-docs.github.io/just-the-docs/).  
 ```
