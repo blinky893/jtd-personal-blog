@@ -66,25 +66,37 @@ The wrapper that creates the sub-heading style seen at the top of this page `{: 
 ### Creating a new section
 You create a new section by creating a **new folder** inside `./docs` and adding an `index.md` file. The name of the folder is not displayed in the public site so can be whatever you want.  
 
-The **section name** in the main nav is from the the `index.md` file > front matter > **page title**.  
+The **section name** that's displayed in the main navigation menu is taken from 
+- the `index.md` file
+   - the front matter
+      - the **page title** declaration.  
 
-The default layout of `index.md` files is a **table of contents** - or TOC - that lists all the child pages in the section. This TOC is generated automatically. The only information you need to add to the file is the front matter and (optionally) an H1 heading to help keep the reader orientated:
+For example, in the `index.md` of this section, the front matter has the property `title`, which has the value `Using this template` - which is the text you see in the navigation menu.
+
 ```
 ---
 layout: default
 title: Using this template
 
-# nav_order sets the position of the section in the main navigation 
+# nav_order sets the position of the section in the main navigation
+
 nav_order: 2
 
 # has_children should be set to **true** so child pages appear inside the section.
+
 has_children: true 
 ---
-# Heading 1
 
+# Section title (as an H1 heading)
+
+A subtitle sentence explaining the purpose of the section.
+{: .fs-6 .fw-300 }
 ```
 
----
+
+The rest of the section page - the `index.md` file -  is a **table of contents** that lists all the child pages in the section. This list is generated automatically.
+
+The text for the page titlea is taken from the `title` values in the front matter of each child page. 
 
 ### Creating pages within a section
 Pages within a section (child pages) need to include in their front matter: 
@@ -97,9 +109,8 @@ Pages within a section (child pages) need to include in their front matter:
 layout: default
 title: Quick tips
 parent: Using this template
-nav_order: 1 [or whatever position you want it to be in the section nav]
+nav_order: 1 
 ---
-
 ```
 
 ---
