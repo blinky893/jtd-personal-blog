@@ -11,8 +11,8 @@ nav_order: 1
 Here are my favourite photos from December.
 {: .fs-6 .fw-300 }  
 
-## Blueberries (986x657)
-![](../../../msdn-lessons/sandbox/css-masonry/files/images/blueberries.jpg)
+## See the album
+[See the album in Google drive](https://photos.app.goo.gl/tAXT1oxotRCeFWgk6)
 
 ## Google Photos 1
 <img src="https://lh3.googleusercontent.com/Fe6LXfJSZW9kx_Vludshf9Ia5LKX2uuvNx76VqYuwLq5NAvTIhiU-JIIIL7xspvUz2qpHf6iwRfNfRmjvaZOeXk2Tqdwul7yQfPpqYBMhSrRfLpzQcXw5wUWVmqjm-kf7MnkK7EPIQ">
