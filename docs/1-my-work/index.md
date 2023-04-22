@@ -8,10 +8,14 @@ has_children: false
 # My work
 
 
-## Sample 1 - An online help area
+## Designing new online help
+This is body text.
 
-## Sample 2 - A style guide for a SAAS platform
+## Creating a style guide for a SAAS platform
+This is body text.
 
-## Sample 3 - 16 weeks of tips
+## Building a user community around documentation
+This is body text.
 
 ## Other projects
+This is body text.
