@@ -4,15 +4,17 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome
+# About me
 
 ## Hello
 
 Hello, my name's Chris and I design online documentation and deliver training. 
 
-I want my work to help people **find information faster** and **learn skills easily** - and maybe enjoyably.
+I want my work to help people **find information faster** and **learn skills easily**. 
 
-This site has [samples](/docs/1-work-samples/) of my work and you can also read my [tips for writing good documentation](/docs/2-writing-resources/).
+For me, well designed content is accessible, researched, and tested.
+
+You can take a look at [samples](/docs/1-work-samples/) of my work and read what I think [good documentation](/docs/2-writing-resources/) looks like.
 
 
 ## Why I built this site
@@ -27,9 +29,9 @@ I built this site as a way of learning some development skills including:
 
 ## ... and who helped me 
 
-But I couldn't have done any of these things without the help of the developers who took the time to document their knowledge and share their skills - thank you. 
+But I couldn't have learned any of these skills without the help of developers who took the time to document their knowledge and share their skills - thank you.
 
-In particular, I'd like to thank the community behind the template for this site at [Just the docs](https://just-the-docs.github.io/just-the-docs/) for creating such a helpful template. 
+In particular, I'd like to thank the community behind the template for this site at [Just the docs](https://just-the-docs.github.io/just-the-docs/). 
 
 If you'd like to try building your own site like this one, you may enjoy reading [my story behind the site](/docs/3-about-this-site/).
 
