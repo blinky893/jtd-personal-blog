@@ -15,7 +15,7 @@ I want my work to help people **find information faster** and **learn skills eas
 This site has [samples](/docs/1-work-samples/) of my work and you can also read my [tips for writing good documentation](/docs/2-writing-resources/).
 
 
-## A few thank yous
+## Why I built this site
 
 I built this site as a way of learning some development skills including:
 
