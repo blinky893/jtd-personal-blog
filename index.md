@@ -17,15 +17,13 @@ You can take a look at [samples](/docs/1-work-samples/) of my work and read what
 
 ## Why I built this site
 
-I built this site as a way of learning some development skills including:
+As well as hosting my portfolio, I built this site as a way of learning some development skills including:
 
 - how to use Git and Github
 - how to write in Markdown
 - how to host a static site on Github
 - how to deploy a static site with Netlify
 - and how to use VSCode to do a lot of the above
-
-## ... and who helped me 
 
 But I couldn't have learned any of these skills without the help of developers who took the time to document their knowledge and share their skills - thank you.
 
