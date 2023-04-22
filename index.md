@@ -6,8 +6,6 @@ nav_order: 1
 
 # About me
 
-## Hello
-
 Hello, my name's Chris and I design online documentation and deliver training. 
 
 I want my work to help people **find information faster** and **learn skills easily**. 
