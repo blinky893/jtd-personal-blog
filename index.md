@@ -6,17 +6,16 @@ nav_order: 1
 
 # Welcome
 
-## About me
+## Hello
 
-Hi, my name's Chris and I design online documentation and deliver training. My aim is to help people **find information faster** and **learn skills more easily**.
+Hello, my name's Chris and I design online documentation and deliver training. 
 
-This site has [samples](/docs/1-work-samples/) of my work and read my [tips for writing good documentation](/docs/2-writing-resources/).
+I want my work to help people **find information faster** and **learn skills more easily**. And maybe even enjoyably.
 
-## Contact me
+This site has [samples](/docs/1-work-samples/) of my work and you can also read my [tips for writing good documentation](/docs/2-writing-resources/).
 
-Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thischriswood) or [Github](https://github.com/blinky893/).
 
-## About this site
+## Acknowledgements
 
 I built this site as a way of learning some development skills including:
 
@@ -24,8 +23,14 @@ I built this site as a way of learning some development skills including:
 - how to write in Markdown
 - how to host a static site on Github
 - how to deploy a static site with Netlify
-- how to use VSCode to do a lot of the above!
+- and how to use VSCode to do a lot of the above!
 
-I'm very grateful to the developers of the Jekyll template [Just the docs](https://just-the-docs.github.io/just-the-docs/) for it's template. 
+I'm grateful to all the developers who documented their knowledge and freely shared their skills. 
 
-If you'd like to build your own portfolio website for free, whilst learning some development skills, you can [read the story behind the site](/docs/3-about-this-site/)
+In particular, I'd like to thank the community of people behind the template for this site at [Just the docs](https://just-the-docs.github.io/just-the-docs/). 
+
+If you'd like to build your own portfolio website for free, whilst learning some development skills, you can [read my story behind the site](/docs/3-about-this-site/).
+
+## Contact me
+
+Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/thischriswood) or [Github](https://github.com/blinky893/) with any questions or feedback.
