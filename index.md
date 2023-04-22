@@ -10,9 +10,7 @@ Hello, my name's Chris and I design online documentation and deliver training.
 
 I want my work to help people **find information faster** and **learn skills easily**. 
 
-For me, well designed content is accessible, researched, and tested.
-
-You can take a look at [samples](/docs/1-work-samples/) of my work and read what I think [good documentation](/docs/2-writing-resources/) looks like.
+You can take a look at [samples](/docs/1-my-work/) of my work and read what I think makes for [good documentation](/docs/2-resources-i-use/index.md).
 
 
 ## Why I built this site
@@ -25,9 +23,7 @@ As well as hosting my portfolio, I built this site as a way of learning some dev
 - how to deploy a static site with Netlify
 - and how to use VSCode to do a lot of the above
 
-But I couldn't have learned any of these skills without the help of developers who took the time to document their knowledge and share their skills - thank you.
-
-In particular, I'd like to thank the community behind the template for this site at [Just the docs](https://just-the-docs.github.io/just-the-docs/). 
+But I couldn't have learned any of these skills without the help of the developers who took the time to document their knowledge and share their skills. In particular, I'd like to thank the community behind the template for this site at [Just the docs](https://just-the-docs.github.io/just-the-docs/). 
 
 If you'd like to try building your own site like this one, you may enjoy reading [my story behind the site](/docs/3-about-this-site/).
 
