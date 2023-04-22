@@ -25,6 +25,8 @@ I built this site as a way of learning some development skills including:
 - how to deploy a static site with Netlify
 - and how to use VSCode to do a lot of the above
 
+## ... and who helped me 
+
 But I couldn't have done any of these things without the help of the developers who took the time to document their knowledge and share their skills - thank you. 
 
 In particular, I'd like to thank the community behind the template for this site at [Just the docs](https://just-the-docs.github.io/just-the-docs/) for creating such a helpful template. 
