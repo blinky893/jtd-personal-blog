@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Using this template
+title: Writing resources
 nav_order: 2
 has_children: true
 ---
 
-# Using this template
+# Writing resources
