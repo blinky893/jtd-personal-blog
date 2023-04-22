@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Using this template
+title: About this site
 nav_order: 3
 has_children: true
 ---
 
-# Using this template
+# About this website
