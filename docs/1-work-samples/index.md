@@ -2,7 +2,7 @@
 layout: default
 title: Work samples
 nav_order: 2
-# has_children: true
+has_children: true
 ---
 
 # Sample 1 - An online help area
