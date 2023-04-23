@@ -24,18 +24,18 @@ For the support area to be a success:
 ## My process
 - After discussing user stories with the Product Owner, I would create draft content in Confluence for stakeholders to review which I then presented to the development team during their sprint planning meetings.
 
-## How did you drive the team or project forward?
+## How I contributed to the project team
 
-### Reducing time to market
+### Reduced time to market
 To allow the development team to focus on higher value features and increase the speed new content could be published, I created a business case for a separate Content Management System. I worked with internal technology partners to explore, prototype and ultimately agree a suitable solution that the project would go on to adopt.
 
-### Supporting content translation into 20 languages
+### Supported content translation into 20 languages
 A need was identified for the content to be translated so I worked with translators,  and teams in local markets to deliver the content in approximately 20 languages. To reduce the time to delivery, I created a process to automate the formatting of translated content. 
 
-### Improving the content collaboration process
+### Improved the content collaboration process
 The development team had initially been creating support articles from Word documents but had found this process to be problematic and wasteful for them.  As they were already working in Jira and Confluence, I created a space there for support content which made collaboration easier and more productive.
 
-## Your outcomes
+## The outcomes
 - I delivered batches of support articles in time to support new platform releases to the satisfaction of the Product Owner and a wide group of stakeholders.
 - All articles met our tests for simple English and house style, and were written to an agreed template.
 - Processes for monitoring Google Analytics of the pages and carrying out user testing were agreed to ensure continuous improvement.
