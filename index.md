@@ -8,7 +8,7 @@ nav_order: 1
 
 Hello, my name's Chris and I design online documentation and deliver training. 
 
-I want my work to help people **find information faster** and **learn skills easily**. 
+I help people **find information faster** and **learn skills more easily**. 
 
 You can take a look at [samples](/docs/1-my-work/) of my work and read what I think makes for [good documentation](/docs/2-resources-i-use/index.md).
 
