@@ -1,5 +1,20 @@
 # just-the-docs-template
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd4cc430-f8a4-4383-83d1-4d43d30aac10/deploy-status)](https://app.netlify.com/sites/meek-kulfi-5ec04e/deploys)
 
+## Why I built this site
+I built this site as a way of learning some development skills including:
+
+- how to use Git and Github
+- how to write in Markdown
+- how to host a static site on Github
+- how to deploy a static site with Netlify
+- and how to use VSCode to do a lot of the above
+
+But I couldn’t have learned any of these skills without the help of the developers who took the time to document their knowledge and share their skills. In particular, I’d like to thank the community behind the template for this site at Just the docs.
+
+If you’d like to try building your own site like this one, you may enjoy reading my story behind the site.
+
+## About this template
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
@@ -102,4 +117,3 @@ You're free to customize sites that you create with this template, however you l
 [`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
 [`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cd4cc430-f8a4-4383-83d1-4d43d30aac10/deploy-status)](https://app.netlify.com/sites/meek-kulfi-5ec04e/deploys)
