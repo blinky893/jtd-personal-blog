@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Quick tips
-parent: Using this template
-nav_order: 1
+title: Site reference
+parent: About this site
+nav_order: 2
 ---
 
-# Quick tips
+# Site reference
 {: .no_toc}
 
 This page is a cheat sheet and style guide for creating content on this template.
