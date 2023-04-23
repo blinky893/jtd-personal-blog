@@ -101,3 +101,5 @@ You're free to customize sites that you create with this template, however you l
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 [`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
 [`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd4cc430-f8a4-4383-83d1-4d43d30aac10/deploy-status)](https://app.netlify.com/sites/meek-kulfi-5ec04e/deploys)
