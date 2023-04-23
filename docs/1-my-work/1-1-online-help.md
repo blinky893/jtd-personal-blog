@@ -12,7 +12,7 @@ nav_order: 1
 ## The problem
 - An educational publisher was launching a new platform to a worldwide audience of teachers, learners, and educational administrators. Analytics and customer feedback from  previous platforms showed that, without online support, content users and the business would experience increased costs and a loss in perceived value.
 
-## The gaol
+## The goal
 For the support area to be a success: 
 - the content had to support the most common and most important user tasks
 - the language had to be simple enough for non-native English speakers to understand
@@ -41,7 +41,7 @@ The development team had initially been creating support articles from Word docu
 - Processes for monitoring Google Analytics of the pages and carrying out user testing were agreed to ensure continuous improvement.
 
 ## What I learned
-So much! This project was an excellent - and fast - introduction to UX and Content Design in an Agile delivery environment. 
+This project was an excellent - and fast - introduction to UX and Content Design in an Agile delivery environment. 
 
 **Technical skills:**  card sorting, tree testing, readability, information architecture, and how to use Jira and Confluence.
 
