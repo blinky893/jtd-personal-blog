@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Designing online help
+parent: My work
 nav_order: 1
-has_children: false
+
+
 ---
 
 # Designing online help for a new global platform
