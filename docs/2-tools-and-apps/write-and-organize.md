@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Glossary
-parent: Books
-nav_order: 1
+# title: Write and organize
+# nav_order: 1
 ---
 
 

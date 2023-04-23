@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Designing online help
+title: A new support site
 parent: My work
 nav_order: 1
 
@@ -8,21 +8,25 @@ nav_order: 1
 ---
 
 # Designing online help for a new global platform
+Subtitle will go here.
+{: .fs-6 .fw-300 }
 
 ## The problem
-- An educational publisher was launching a new platform to a worldwide audience of teachers, learners, and educational administrators. Analytics and customer feedback from  previous platforms showed that, without online support, content users and the business would experience increased costs and a loss in perceived value.
+An educational publisher was launching a new platform to a worldwide audience of teachers, learners, and educational administrators. 
+
+Analytics and customer feedback from  previous platforms showed that, without online support, content users and the business would experience increased costs and a loss in perceived value.
 
 ## The goal
 For the support area to be a success: 
-- the content had to support the most common and most important user tasks
-- the language had to be simple enough for non-native English speakers to understand
-- the organization of the content had to match the mental models of different user groups
+- **the content** had to support the most common and most important user tasks
+- **the language** had to be simple enough for non-native English speakers to understand
+- **the organization** of the content had to match the mental models of different user groups
  
 ## My role
-- I worked with the Product Owner, UX Designers, Marketing, and Customer Support teams to define, design, test, and deliver an online support area.
+I worked with the Product Owner, UX Designers, Marketing, and Customer Support teams to define, design, test, and deliver an online support area.
 
 ## My process
-- After discussing user stories with the Product Owner, I would create draft content in Confluence for stakeholders to review which I then presented to the development team during their sprint planning meetings.
+After discussing user stories with the Product Owner, I would create draft content in Confluence for stakeholders to review which I then presented to the development team during their sprint planning meetings.
 
 ## How I contributed to the project team
 
