@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Site reference
+# title: Site reference
+# pages without titles are not included in the navigation
 parent: About this site
 nav_order: 5
 ---

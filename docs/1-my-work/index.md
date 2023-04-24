@@ -6,5 +6,5 @@ has_children: true
 ---
 
 # My work
-Subtitle will go here.
+My work helps people find information faster and learn skills more easily.
 {: .fs-6 .fw-300 }

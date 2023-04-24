@@ -6,7 +6,5 @@ has_children: true
 ---
 
 # About this site
-Subtitle will go here.
+Why and how I learned to build this site.
 {: .fs-6 .fw-300 }
-
-

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How I use Github
+title: Discovering Github
 parent: About this site
 nav_order: 2
 # has_children: true

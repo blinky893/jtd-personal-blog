@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How I use Markdown
+title: Discovering Markdown
 parent: About this site
 nav_order: 3
 # has_children: true

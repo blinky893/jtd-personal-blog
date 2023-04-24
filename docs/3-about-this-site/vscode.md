@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How I use VSCode
+title: Discovering VSCode
 parent: About this site
 nav_order: 4
 # has_children: true
