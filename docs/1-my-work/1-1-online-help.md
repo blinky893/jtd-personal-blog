@@ -1,20 +1,20 @@
 ---
 layout: default
 title: A new support site
-parent: My work
+parent: Work samples
 nav_order: 1
 
 
 ---
 
-# Designing online help for a new global platform
-Subtitle will go here.
+# A new support site
+Designing online help for a new global platform
 {: .fs-6 .fw-300 }
 
 ## The problem
 An educational publisher was launching a new platform to a worldwide audience of teachers, learners, and educational administrators. 
 
-Analytics and customer feedback from  previous platforms showed that, without online support, content users and the business would experience increased costs and a loss in perceived value.
+Analytics and customer feedback from  previous platforms showed that, without online support, users and the business would experience increased costs and a loss in perceived value.
 
 ## The goal
 For the support area to be a success: 

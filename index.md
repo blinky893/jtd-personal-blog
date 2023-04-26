@@ -9,9 +9,9 @@ nav_order: 1
 I design online documentation that helps people find information faster and learn skills more easily. 
 
 On this site, you can:
-- take a look at [samples of my work](/docs/1-my-work/) 
-- see my [tools and applications](/docs/2-tools-and-apps/)
-- learn [how I built this site](/docs/3-about-this-site/)
+- look at [samples of my work](/docs/1-my-work/) 
+- see my [design tools](/docs/2-design-tools/)
+- read [how I built this site](/docs/3-about-this-site/)
 
 ### Contact me
 

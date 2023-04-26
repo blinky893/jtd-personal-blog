@@ -1,11 +1,10 @@
 ---
 layout: default
-title: A user community
+title: A library of video guides
 parent: Work samples
-nav_order: 3
+nav_order: 2
 ---
 
-# A user community for technical support
+# A library of video guides
 Subtitle will go here.
 {: .fs-6 .fw-300 }
-

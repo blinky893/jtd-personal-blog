@@ -1,10 +1,10 @@
 ---
 layout: default
-title: My work
+title: Work samples
 nav_order: 2
 has_children: true
 ---
 
-# My work
-My work helps people find information faster and learn skills more easily.
+# Work samples
+Examples of work from recent projects
 {: .fs-6 .fw-300 }
