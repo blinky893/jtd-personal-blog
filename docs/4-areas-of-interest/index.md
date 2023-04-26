@@ -6,16 +6,10 @@ nav_order: 5
 ---
 
 # Areas of interest
-{: .no_toc}
 
 Current areas of interest
 {: .fs-6 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
 
 ## Accessibility
 European Accessibility Act, Plain English, Readability
