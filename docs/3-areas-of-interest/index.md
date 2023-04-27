@@ -7,18 +7,15 @@ nav_order: 5
 
 # Areas of interest
 
-Current areas of interest
-{: .fs-6 .fw-300 }
+## Accessible content
+Using and promoting principles of [plain language](https://centerforplainlanguage.org/about/) and [readability](https://readabilityguidelines.co.uk/)
 
+## Onboarding
+- Designing human-centred processes and experiences   
+- Creating events and assets that build confidence
+- Growing self-sustaining communities of practice 
 
-## Accessibility
-European Accessibility Act, Plain English, Readability
-{: .fs-3 .fw-300 }
-
-This is body text.
-
-## Static site development 
-Github, Markdown, Static sites, Visual Studio Code
-{: .fs-3 .fw-300 }
-
-This is body text.
+## Understanding how people and teams learn
+- Teaching and learning strategies
+- Process improvement
+- Personal development
