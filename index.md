@@ -11,7 +11,7 @@ I design online documentation that helps people find information faster and lear
 On this site, you can:
 - look at [samples of my work](/docs/1-my-work/) 
 - see my [design tools](/docs/2-design-tools/)
-- read [how I built this site](/docs/3-about-this-site/)
+- read [my areas of interest](/docs/3-areas-of-interest/)
 
 ### Contact me
 
