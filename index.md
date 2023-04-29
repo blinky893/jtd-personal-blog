@@ -1,18 +1,18 @@
 ---
-title: About me
+title: Welcome
 layout: home
 nav_order: 1
 ---
 
 # Hello, I'm Chris.
+Technical Author and UX Writer
+{: .fs-6 .fw-300 }
 
-I design online documentation that helps people find information faster and learn skills more easily. 
+I design documentation that helps people find information faster and learn skills more easily.
 
-On this site, you can:
-- look at [samples of my work](/docs/1-my-work/) 
-- see my [design tools](/docs/2-design-tools/)
-- read about [my areas of interest](/docs/3-areas-of-interest/)
+On this site, you can see:
+- [some of the projects I've worked on](/docs/1-projects/) 
+- [some examples of the content I've produced](docs/2-sample-docs/) 
+- [some of the resources I use to write](/docs/2-tools/)
 
-### Contact me
-
-I'd look forward to hearing from you on [LinkedIn](https://www.linkedin.com/in/thischriswood) or [Github](https://github.com/blinky893/).  
+You can also find my [contact details](/docs/4-contact/).
