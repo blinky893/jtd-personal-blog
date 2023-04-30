@@ -1,15 +1,14 @@
 title: My Portfolio
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: The portfolio site of Chris Wood - Technical Author and UX Writer
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://chriswood.netlify.app/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Color scheme supports "light" (default) and "dark"
 # color_scheme: dark
-color_scheme: foo 
 
 callouts:
   warning:
