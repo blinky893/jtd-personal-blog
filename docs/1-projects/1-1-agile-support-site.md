@@ -8,6 +8,8 @@ nav_order: 1
 # Delivering agile support
 {: .no_toc }
 
+Tools used:
+{: .label .label-purple }
 Confluence
 {: .label .label-blue }
 Jira

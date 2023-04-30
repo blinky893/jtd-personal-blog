@@ -7,11 +7,14 @@ nav_order: 3
 
 # Building a user community
 {: .no_toc }
+
+Tools used:
+{: .label .label-purple }
 Camtasia
 {: .label .label-blue }
 Microsoft SharePoint
 {: .label .label-blue }
-Webinars
+Microsoft Teams webinars
 {: .label .label-blue }
 
 
