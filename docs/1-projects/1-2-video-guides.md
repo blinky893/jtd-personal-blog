@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Building a user community
+title: Producing skills videos
 parent: Projects
-nav_order: 3
+nav_order: 2
 ---
 
-# Building a user community
+# Producing skills videos
 {: .no_toc }
 Camtasia
 {: .label .label-blue }
-Microsoft SharePoint
+Help & Manual
 {: .label .label-blue }
-Webinars
+HTML
+{: .label .label-blue }
+Google Analytics
 {: .label .label-blue }
 
 
@@ -35,8 +37,11 @@ Body text
 ## The outcomes
 Body text
 
+![A screengrab showing a thumbnail of a video gallery ](/assets/images/video-library-screengrab.jpg)
+
 ## What I learned
 Body text
 
 - **Technical skills:** 
 - **Team skills:**
+
