@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Useful links
+# title: Useful links
 parent: Resources
 nav_order: 2
 ---

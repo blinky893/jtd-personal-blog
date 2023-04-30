@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Templates
+# title: Templates
 parent: Resources
 nav_order: 1
 ---
