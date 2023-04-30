@@ -1,6 +1,6 @@
 To Do
 
-[] Add to do here
+[] Remove 'Table of contents' text from auto-generated tocs
 []
 []
 []

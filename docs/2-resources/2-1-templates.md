@@ -1,6 +1,6 @@
 ---
 layout: default
-# title: Templates
+title: Templates
 parent: Resources
 nav_order: 1
 ---
@@ -8,9 +8,8 @@ nav_order: 1
 # Templates
 {: .no_toc }
 
-Frequently used templates
+Templates I've made
 {: .fs-6 .fw-300 }
-
 
 ---
 
@@ -19,9 +18,8 @@ Frequently used templates
 
 ---
 
-
-## Template for a 'How-to' article 
+## Support article template 
 Body text.
 
-## Template for a style guide
+## Style guide template
 Body text.

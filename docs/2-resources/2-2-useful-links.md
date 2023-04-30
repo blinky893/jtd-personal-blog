@@ -1,13 +1,14 @@
 ---
 layout: default
-# title: Useful links
+title: Links
 parent: Resources
 nav_order: 2
 ---
 
 # Useful links
 {: .no_toc }
-Resources I use to design and develop content
+
+Links I find useful
 {: .fs-6 .fw-300 }
 
 ---
