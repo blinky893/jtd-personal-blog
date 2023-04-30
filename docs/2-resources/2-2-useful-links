@@ -1,0 +1,19 @@
+---
+layout: default
+title: Useful links
+parent: Resources
+nav_order: 2
+---
+
+# Useful links
+
+Resources I use to design and develop content
+{: .fs-6 .fw-300 }
+
+---
+
+- [Five steps to plain language](https://centerforplainlanguage.org/learning-training/five-steps-plain-language/) 
+- [Readability guidelines](https://readabilityguidelines.co.uk/)
+- [The GDS style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
+- [Other style guides](http://styleguides.io/examples.html#writing)
+- [Hemingway Editor](https://hemingwayapp.com)
