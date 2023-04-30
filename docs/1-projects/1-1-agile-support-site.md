@@ -22,6 +22,7 @@ Visual Studio Code
 - TOC
 {:toc}
 
+---
 
 ## The problem
 An educational publisher was launching a new platform to a worldwide audience of teachers, learners, and educational administrators. 

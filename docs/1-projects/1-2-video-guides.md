@@ -22,6 +22,8 @@ Google Analytics
 - TOC
 {:toc}
 
+---
+
 ## The problem
 Body text
 
