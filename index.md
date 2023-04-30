@@ -12,7 +12,7 @@ I design documentation that helps people find information faster and learn skill
 
 On this site, you can see:
 - [some of the projects I've worked on](/docs/1-projects/) 
-- [some examples of the content I've produced](docs/2-sample-docs/) 
-- [some of the resources I use to write](/docs/2-tools/)
+- [some examples of the content I've produced](docs/1-projects/1-4-samples-of-work.md) 
+- [some of the resources I use to write](/docs/2-resources/)
 
-You can also find my [contact details](/docs/4-contact/).
+You can also find my [contact details](/docs/3-contact/).
