@@ -14,3 +14,8 @@ I'd look forward to hearing from you.
 You can contact me on
 - [LinkedIn](https://www.linkedin.com/in/thischriswood) 
 - [Github](https://github.com/blinky893/)
+
+![](/assets/images/undraw_Welcome_tree.png)
+{: .no_toc }
+
+---
