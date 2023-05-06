@@ -10,6 +10,8 @@ nav_order: 6
 
 {: .fs-6 .fw-300 }
 Documents, guides, and templates
+{: .no_toc }
+
 ---
 
 - TOC
