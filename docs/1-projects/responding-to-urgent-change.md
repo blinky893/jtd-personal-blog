@@ -20,16 +20,16 @@ Visual Studio Code
 UX Design collaboration
 {: .label .label-blue }
 
-
----
-
-- TOC
-{:toc}
-
 ---
 
 ![](/assets/images/undraw_html_css.png)
 {: .no_toc }
+
+---
+Skip to:
+
+- TOC
+{:toc}
 
 ---
 

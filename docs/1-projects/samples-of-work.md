@@ -14,24 +14,25 @@ Documents, guides, and templates
 
 ---
 
+![](/assets/images/undraw_files_docs.png)
+{: .no_toc }
+
+---
+Skip to:
+
 - TOC
 {:toc}
 
 ---
 
-![](/assets/images/undraw_files_docs.png)
-{: .no_toc }
-
----
-
 ## A support article
-Open in Google doc
+Open PDF
 
 ## A template
-Open in Google docs
+Open PDF
 
 ## A style guide
-Open in Google docs
+Open PDF
 
 ## An explainer video 
-This is body text.
+Open PDF

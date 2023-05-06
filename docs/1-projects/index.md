@@ -6,3 +6,8 @@ has_children: true
 ---
 
 # My projects
+
+---
+
+![](/assets/images/undraw_project_trees.png)
+{: .no_toc }

@@ -5,16 +5,12 @@ nav_order: 3
 has_children: false
 ---
 
+
 # Links
 {: .no_toc }
 
-Links I use for designing and developing content
+Resources I use for developing content
 {: .fs-6 .fw-300 }
-
----
-
-- TOC
-{:toc}
 
 ---
 
@@ -22,41 +18,41 @@ Links I use for designing and developing content
 {: .no_toc }
 
 ---
+Skip to:
+- TOC
+{:toc}
 
-## Five steps to plain language
+---
+
+## Planning usable content
 [centerforplainlanguage.org](https://centerforplainlanguage.org/learning-training/five-steps-plain-language/) 
-{: .fs-5 .fw-300 }
 
-Body text.
+My favourite summary of what good content is and how to create it.
 
 ## Readability guidelines
 [readabilityguidelines.co.uk](https://readabilityguidelines.co.uk/)
-{: .fs-5 .fw-300 }
 
-Body text.
+Evidence-based principles for making content that's usable and accessible.
+
 ## Usability testing resources
 [Digital.gov](https://digital.gov/topics/usability-testing/)
-{: .fs-5 .fw-300 }
 
-Body text.
+Practical guidance to make sure content works for its audience. The webinar on [document testing](https://digital.gov/event/2021/04/14/how-testing-your-documents-can-improve-plain-language-compliance/) remains particularly useful.  
 
-## The GDS style guide
-[gov.uk](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
-{: .fs-5 .fw-300 }
+## Writing guidance from the UK Government Digital Service 
+[gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 
-Body text.
+Well researched advice on writing well - both for the web and for specialist audiences.
 
-## Other style guides
+## Style guide collections
 [styleguides.io](http://styleguides.io/examples.html#writing)
-{: .fs-5 .fw-300 }
 
-Body text.
+A source of inspiration and information on different style for different audiences. 
 
 ## Hemingway Editor
 [hemingwayapp.com](https://hemingwayapp.com)
-{: .fs-5 .fw-300 }
 
-Body text.
+The minimal UI and instant feedback has helped me get my words into shape on many occassions.
 
 ## Current interests
 - The [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) approach

@@ -17,20 +17,21 @@ Writing business cases
 {: .label .label-blue }
 Organizational research
 {: .label .label-blue }
+Static site generators 
+{: .label .label-blue }
 Protyping 
 {: .label .label-blue }
 
-
 ---
-
-- TOC
-{:toc}
-
----
-
 
 ![](/assets/images/undraw_agile_development.png)
 {: .no_toc }
+
+---
+Skip to:
+
+- TOC
+{:toc}
 
 ---
 

@@ -8,19 +8,17 @@ nav_order: 5
 # Building a user community
 {: .no_toc }
 
+Improving engagement with new technology 
+{: .fs-6 .fw-300 }
+
 Tools
 {: .label .label-purple }
 Camtasia
 {: .label .label-blue }
-Microsoft SharePoint
+Microsoft SharePoint 
 {: .label .label-blue }
-Microsoft Teams webinars
+Microsoft Yammer 
 {: .label .label-blue }
-
----
-
-- TOC
-{:toc}
 
 ---
 
@@ -29,14 +27,21 @@ Microsoft Teams webinars
 
 ---
 
+Skip to:
+
+- TOC
+{:toc}
+
+---
+
 ## The problem
 - Whilst working remotely, the organization moved its workforce to Microsoft 365, introducing them to new applications and new ways of working. 
 - Although the organization subscribed to a paid-for library of skills videos to help with knowledge gaps, users found this catalogue to be too large, and the videos too long to engage with. 
 - As a result, people experienced frustration and resorted to workarounds rather than best-practices. 
-- This resulted in inconsistent and incomplete adoption of the new services, and a large number of questions in internal forums.
+- This resulted in inconsistent and incomplete adoption of the new services, and a large number of questions in a variety of internal forums.
 
 ## The goal
-- To give users access to skills training in ways they would find easier and more enjoyable to consume.
+- To create a community space where we could deliver key messages in eas
 
 ## My role
 - Working from an idea of sharing a 'tip of the week' video, I contacted colleagues in technology and communications to agree topics for the videos and a process for promoting them. 

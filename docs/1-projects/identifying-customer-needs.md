@@ -23,17 +23,17 @@ HTML
 Google Analytics
 {: .label .label-blue }
 
-
 ---
-
-- TOC
-{:toc}
-
----
-
 
 ![](/assets/images/undraw_image_options.png)
 {: .no_toc }
+
+---
+
+Skip to:
+
+- TOC
+{:toc}
 
 ---
 
