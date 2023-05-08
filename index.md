@@ -18,7 +18,7 @@ I design documentation that helps people find information faster and learn skill
 
 On this site, you can find:
 - [projects I've worked on](/docs/1-projects/) 
-- [samples of my content](docs/1-projects/samples-of-work.html) 
-- [links to resources I use in my work](/docs/2-links/)
+- [samples of my content](docs/2-samples/) 
+- [links to resources I use in my work](/docs/3-links/)
 
-You can also find my [contact details](/docs/3-contact/).
+You can also find my [contact details](/docs/4-contact/).
