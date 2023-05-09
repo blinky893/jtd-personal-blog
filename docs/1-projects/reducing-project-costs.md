@@ -42,7 +42,7 @@ Skip to:
 ## My role
 - Before joining the project, I had researched how other platforms at the organization hosted their support content.
 - I discovered that many sites were using a custom CMS which could be maintained separately from the platforms they supported
-- I created a case
+- After joining the project, and securing the agreement of the Product Owner, I worked to make the idea a reality
 
 ## The goal
 - To move support content to a CMS that didn't require any developer time to maintain
