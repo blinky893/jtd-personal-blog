@@ -8,7 +8,7 @@ As well as being a portfolio site, I built it to learn and improve my developmen
 - how to write in Markdown
 - how to host a static site on Github
 - how to deploy a static site with Netlify
-- and how to use VSCode to do a lot of the above
+- and how to use Visual Studio Code to do a lot of the above
 
 ## How I built this site
 
