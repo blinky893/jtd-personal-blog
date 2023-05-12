@@ -1,4 +1,4 @@
-title: My Portfolio
+title: Chris Wood
 description: Hello, I'm Chris - a Technical Author and UX Writer
 theme: just-the-docs
 
@@ -6,6 +6,15 @@ url: https://chriswood.netlify.app/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: favicon.ico
+
+search:
+   button: false
+
+footer_links:
+   linkedin_username: thischriswood
 
 # Color scheme supports "light" (default) and "dark"
 # color_scheme: dark
