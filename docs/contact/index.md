@@ -17,4 +17,3 @@ I'd look forward to hearing from you on [LinkedIn](https://www.linkedin.com/in/t
 
 All illustrations: [Undraw.co](https://undraw.co/)
 {: .fs-3 .fw-300 }
----

@@ -19,3 +19,4 @@ A static site made with Jekyll
 - I created this site using the Jekyll template [Just the docs](https://github.com/just-the-docs/just-the-docs).
 - It's hosted on Github and deployed with Netlify.
 - The content is written in Markdown using Visual Studio Code.
+- All illustrations are from [Undraw.co](https://undraw.co/)
