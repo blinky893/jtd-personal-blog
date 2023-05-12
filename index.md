@@ -17,8 +17,8 @@ Technical Author and UX Writer
 I design documentation that helps people find information faster and learn skills more easily.
 
 On this site, you can find:
-- [projects I've worked on](/docs/1-projects/) 
-- [samples of my content](docs/2-samples/) 
-- [links to resources I use in my work](/docs/3-links/)
+- [projects I've worked on](docs/projects/) 
+- [samples of my content](docs/samples/) 
+- [links to resources I use in my work](/docs/links/)
 
-You can also find my [contact details](/docs/4-contact/).
+You can also find my [contact details](/docs/contact/).
