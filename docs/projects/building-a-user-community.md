@@ -41,7 +41,7 @@ Skip to:
 - This resulted in inconsistent and incomplete adoption of the new services, and a large number of questions in a variety of internal forums.
 
 ## The goal
-- To create a community space where we could deliver key messages in eas
+- To create a community space where we could deliver key messages in easy to apply language.
 
 ## My role
 - Working from an idea of sharing a 'tip of the week' video, I contacted colleagues in technology and communications to agree topics for the videos and a process for promoting them. 
